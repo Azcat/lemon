@@ -1,4 +1,4 @@
-#EXTm3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="本地频道", 天津卫视
 http://10.10.10.2:8898/udp/225.1.1.111:5002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地频道", 天津新闻
@@ -291,3 +291,83 @@ http://10.10.10.2:8898/udp/225.1.1.92:5002
 http://10.10.10.2:8898/udp/225.1.1.110:5002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道", 油田企业频道
 http://10.10.10.2:8898/udp/225.1.2.13:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道", 未知频道
+http://10.10.10.2:8898/udp/225.1.2.98:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="篮球专区", 篮球直播频道1
+http://10.10.10.2:8898/udp/225.1.2.86:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="篮球专区", 篮球直播频道2
+http://10.10.10.2:8898/udp/225.1.2.87:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="篮球专区", 篮球直播频道3
+http://10.10.10.2:8898/udp/225.1.2.88:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="篮球专区", 篮球直播频道4
+http://10.10.10.2:8898/udp/225.1.2.89:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="篮球专区", 篮球直播频道5
+http://10.10.10.2:8898/udp/225.1.2.100:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="篮球专区", 篮球直播频道6
+http://10.10.10.2:8898/udp/225.1.2.101:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="篮球专区", 篮球直播频道7
+http://10.10.10.2:8898/udp/225.1.2.102:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="篮球专区", 篮球直播频道8
+http://10.10.10.2:8898/udp/225.1.2.103:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育专区", 学而思直播课一年级
+http://10.10.10.2:8898/udp/225.1.2.106:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育专区", 学而思直播课二年级
+http://10.10.10.2:8898/udp/225.1.2.107:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育专区", 学而思直播课三年级
+http://10.10.10.2:8898/udp/225.1.2.108:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育专区", 学而思直播课四年级
+http://10.10.10.2:8898/udp/225.1.2.109:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育专区", 学而思直播课五年级
+http://10.10.10.2:8898/udp/225.1.2.110:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育专区", 学而思直播课六年级
+http://10.10.10.2:8898/udp/225.1.2.111:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育专区", 学而思直播课七年级
+http://10.10.10.2:8898/udp/225.1.2.112:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育专区", 学而思直播课八年级
+http://10.10.10.2:8898/udp/225.1.2.113:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育专区", 学而思直播课九年级
+http://10.10.10.2:8898/udp/225.1.2.114:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育专区", 学而思直播课高中一年级
+http://10.10.10.2:8898/udp/225.1.2.115:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育专区", 学而思直播课高中二年
+http://10.10.10.2:8898/udp/225.1.2.116:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育专区", 学而思直播课高中三年级
+http://10.10.10.2:8898/udp/225.1.2.117:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育专区", 一至三年级
+http://10.10.10.2:8898/udp/225.1.2.129:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育专区", 四至六年级
+http://10.10.10.2:8898/udp/225.1.2.130:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类频道", 未知频道
+http://10.10.10.2:8898/udp/225.1.1.247:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类频道", 未知频道
+http://10.10.10.2:8898/udp/225.1.1.248:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类频道", 未知频道
+http://10.10.10.2:8898/udp/225.1.1.249:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类频道", 未知频道
+http://10.10.10.2:8898/udp/225.1.1.251:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类频道", 未知频道
+http://10.10.10.2:8898/udp/225.1.1.252:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类频道", 未知频道
+http://10.10.10.2:8898/udp/225.1.1.253:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类频道", 未知频道
+http://10.10.10.2:8898/udp/225.1.1.254:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播频道", 文艺广播
+http://10.10.10.2:8898/udp/225.1.1.171:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播频道", 经济广播
+http://10.10.10.2:8898/udp/225.1.1.172:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播频道", 新闻广播
+http://10.10.10.2:8898/udp/225.1.1.173:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播频道", 生活广播
+http://10.10.10.2:8898/udp/225.1.1.174:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播频道", 交通广播
+http://10.10.10.2:8898/udp/225.1.1.175:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播频道", 相声广播
+http://10.10.10.2:8898/udp/225.1.1.176:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播频道", 小说广播
+http://10.10.10.2:8898/udp/225.1.1.177:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播频道", 滨海广播
+http://10.10.10.2:8898/udp/225.1.1.178:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播频道", 音乐广播
+http://10.10.10.2:8898/udp/225.1.1.179:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播频道", 动听885
+http://10.10.10.2:8898/udp/225.1.1.180:5002
